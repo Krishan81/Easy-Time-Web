@@ -9,6 +9,10 @@ A React + Tailwind app with three tools in one:
 - **Timer** — a countdown timer with presets (1/5/10/25 min), +/- 1 minute
   adjustment, and a progress bar.
 
+## Live Demo
+
+https://easy-time-web.vercel.app/#
+
 ## Setup
 
 1. Unzip the project and open the folder in VS Code.
@@ -21,6 +25,17 @@ A React + Tailwind app with three tools in one:
    npm run dev
    ```
 4. Open the printed localhost URL in your browser.
+
+## Screenshot
+
+### World Clock
+![World Clock](./screenshots/world-clock.png)
+
+### Stopwatch
+![Stopwatch](./screenshots/stopwatch.png)
+
+### Timer
+![Timer](./screenshots/timer.png)
 
 ## Project structure
 
@@ -43,7 +58,6 @@ time-app/
 
 ## Ideas to extend it
 
-- Persist selected cities with `localStorage`
 - Add an alarm clock tab
 - Add a search box to filter the "add city" list
 - Play a sound when the timer finishes

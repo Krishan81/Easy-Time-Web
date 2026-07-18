@@ -29,13 +29,13 @@ https://easy-time-web.vercel.app/#
 ## Screenshot
 
 ### World Clock
-![World Clock](./screenshots/world-clock.png)
+![World Clock](./screenshots/timer.png)
 
 ### Stopwatch
 ![Stopwatch](./screenshots/stopwatch.png)
 
 ### Timer
-![Timer](./screenshots/timer.png)
+![Timer](./screenshots/world-clock.png)
 
 ## Project structure
 
